@@ -1,11 +1,11 @@
 from fastapi import FastAPI, HTTPException
-import mysql.connector
-from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
-import uuid
-import hashlib 
-from typing import List
-from datetime import datetime
+# import mysql.connector
+# from fastapi.middleware.cors import CORSMiddleware
+# from pydantic import BaseModel
+# import uuid
+# import hashlib 
+# from typing import List
+# from datetime import datetime
 import uvicorn
 
 
